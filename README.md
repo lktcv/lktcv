@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @lktcv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lktcv/lktcv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+lktcv design | UX/UI Design & Web Design<br>
+Banding | Design de Interfaces | Tecnologia<br>
+contato@lktcv.work
